@@ -1,0 +1,8 @@
+celery==5.0.5
+python-dotenv
+environ
+flask
+Flask-Mail
+pymongo
+python-dotenv
+redis
